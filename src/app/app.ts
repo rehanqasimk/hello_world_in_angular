@@ -8,6 +8,7 @@ import {Home} from './home/home';
     <main>
       <header class="brand-name">
         <img class="brand-logo" src="/assets/logo.svg" alt="logo" aria-hidden="true" />
+        Hello World
       </header>
       <section class="content">
         <app-home></app-home>
